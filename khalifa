@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mia Khalifa</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #fc19d2; /* Set pink background color */
+        }
+
+        header {
+            text-align: center;
+            padding: 20px;
+        }
+
+        section {
+            padding: 20px;
+        }
+
+        footer {
+            background-color: #4CAF50; /* Green footer background */
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to Mia Khalifa's Page</h1>
+    </header>
+
+    <section>
+        <h2>About This Page</h2>
+        <p>This page is dedicated to Mia Khalifa, a famous public figure in entertainment.</p>
+    </section>
+
+    <section>
+        <h2>Features</h2>
+        <ul>
+            <li>Best pornstar</li>
+            <li>Popular public figure</li>
+            <li>Beautiful and strong</li>
+        </ul>
+    </section>
+
+    <p>MIA KHALIFA</p>
+
+    <!-- Giphy embed for Mia Khalifa -->
+    <iframe src="https://giphy.com/embed/3o7aDdyoaef41qkn9m" width="480" height="269" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+    <p><a href="https://giphy.com/gifs/mia-khalifa-3o7aDdyoaef41qkn9m">via GIPHY</a></p>
+
+    <footer>
+        <p>© 2024 My Website</p>
+    </footer>
+
+</body>
+</html>
